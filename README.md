@@ -30,11 +30,11 @@
 </div>
 
  ## 📫 How to reach me:  
-- <a href="https://www.linkedin.com/in/gabriel-biasom" target="__blank"><img alt="Biasom LinedIn URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"> </a>
-- <a href="mailto:gabrielbiasom@hotmail.com" target="__blank"><img alt="Biasom Email URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" height="30" width="40"></a>
-- <a href="https://instagram.com/g_biasom" target="__blank"><img alt="Biasom Instagram URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a>
-- <a href="https://twitter.com/g_biasom" target="__blank"><img alt="Biasom Twitter URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a>
-- <a href="https://facebook.com/gabriel.biasom" target="__blank"><img alt="Biasom Facebook URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a>
+- <a href="https://www.linkedin.com/in/gabriel-biasom" target="_blank"><img alt="Biasom LinedIn URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"> </a>
+- <a href="mailto:gabrielbiasom@hotmail.com" target="_blank"><img alt="Biasom Email URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" height="30" width="40"></a>
+- <a href="https://instagram.com/g_biasom" target="_blank"><img alt="Biasom Instagram URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a>
+- <a href="https://twitter.com/g_biasom" target="_blank"><img alt="Biasom Twitter URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a>
+- <a href="https://facebook.com/gabriel.biasom" target="_blank"><img alt="Biasom Facebook URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a>
 
 <!--
 **GabrielBiasom/GabrielBiasom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
