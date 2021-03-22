@@ -6,7 +6,7 @@
 ## I am a developer  who believes that the goal of the profession is not to write code but to solve problems.
 
 - 🔭
--- I'm 22 years old, courrent studing Sistems of Information in UniAlfa(Universidade Alves Faria -Goiânia/Goiás/Brazil) since 2018 and near to graduate 👨‍🎓.
+-I'm 22 years old, courrent studing Sistems of Information in UniAlfa(Universidade Alves Faria -Goiânia/Goiás/Brazil) since 2018 and near to graduate 👨‍🎓.
 -An eternal student looking for experience
 -In love with UI projects
 
@@ -30,12 +30,11 @@
 </div>
 
  ## 📫 How to reach me:  
-- <a href="https://www.linkedin.com/in/gabriel-biasom"><img alt="Biasom LinedIn URL" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383262.svg?token=exp=1616442906~hmac=23673d34606441630ce6432db4e1717d" height="30" width="40"></a>
-- <a href="mailto:gabrielbiasom@hotmail.com"><img alt="Biasom Email URL" src="https://www.flaticon.com/svg/vstatic/svg/324/324123.svg?token=exp=1616443142~hmac=9e7c2f9717b3299b28b3ef197f22c6be" height="30" width="40"></a>
-- <a href="https://instagram.com/g_biasom"><img alt="Biasom Instagram URL" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383263.svg?token=exp=1616442882~hmac=2417cd71b8f4edb3155812774f09671d" height="30" width="40"></a>
-- <a href="https://twitter.com/g_biasom"><img alt="Biasom Twitter URL" src="https://www.flaticon.com/svg/vstatic/svg/1383/1383265.svg?token=exp=1616442853~hmac=388bf7e4a693385e027338810f095914" height="30" width="40"></a>
-
-- <a href="https://pt-br.facebook.com/gabriel.biasom"><img alt="Biasom Facebook URL" src="https://www.flaticon.com/svg/vstatic/svg/1384/1384879.svg?token=exp=1616443842~hmac=87ce4784cfd2293b705b5a4b2e5455a7" height="30" width="40"></a>
+- <a href="https://www.linkedin.com/in/gabriel-biasom" target="blank"><img alt="Biasom LinedIn URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"> </a>
+- <a href="mailto:gabrielbiasom@hotmail.com" target="blank"><img alt="Biasom Email URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" height="30" width="40"></a>
+- <a href="https://instagram.com/g_biasom" target="blank"><img alt="Biasom Instagram URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40"></a>
+- <a href="https://twitter.com/g_biasom" target="blank"><img alt="Biasom Twitter URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"></a>
+- <a href="https://facebook.com/gabriel.biasom" target="blank"><img alt="Biasom Facebook URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height="30" width="40"></a>
 
 <!--
 **GabrielBiasom/GabrielBiasom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
