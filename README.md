@@ -1,6 +1,5 @@
 ![1920x1080](https://user-images.githubusercontent.com/54422701/112040606-2cb3da80-8b24-11eb-97da-d770b78081b7.png)
 
-
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Biasom</h1>
 
 ## I am a developer  who believes that the goal of the profession is not to write code but to solve problems.
@@ -24,9 +23,11 @@
 </div>
 <br>
 <div>
+  
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielBiasom&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielBiasom&layout=compact&langs_count=8&theme=radical">
 </div>
+<!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
 
  ## 📫 How to reach me:  
 - <a href="https://www.linkedin.com/in/gabriel-biasom" target="_blank"><img alt="Biasom LinedIn URL" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"> </a>
