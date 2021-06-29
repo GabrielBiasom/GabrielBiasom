@@ -3,8 +3,8 @@
 ## I am a developer  who believes that the goal of the profession is not to write code but to solve problems.
 
 - 🔭 I'm 22 years old, courrent studing Sistems of Information in UniAlfa(Universidade Alves Faria -Goiânia/Goiás/Brazil) since 2018 and near to graduate 👨‍🎓.
--An eternal student looking for experience
--In love with UI projects
+- An eternal student looking for experience
+- In love with UI projects
 
 <h2 align="center"> <strong>Languages and Tools: </strong> </h2>
 <div style="display: inline_block">
