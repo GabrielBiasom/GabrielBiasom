@@ -8,10 +8,6 @@
 -An eternal student looking for experience
 -In love with UI projects
 
-
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/GabrielBiasom)
-
-- ⚡ Fun fact **Oneye 😜**
 ## **Languages and Tools:**  
 <div style="display: inline_block">
 <img align="center" alt="Biasom-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
