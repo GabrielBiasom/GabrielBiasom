@@ -19,11 +19,12 @@
 </div>
 <br>
 <div>
-<a href="https://github.com/GabrielBiasom">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielBiasom&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielBiasom&layout=compact&langs_count=8&theme=radical">
-![Snake animation](https://github.com/GabrielBiasom/GabrielBiasom/blob/output/github-contribution-grid-snake.svg)
-  </div>
+</div>
+  <div>
+  ![Snake animation](https://github.com/GabrielBiasom/GabrielBiasom/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
  ## 📫 How to reach me:  
